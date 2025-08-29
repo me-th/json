@@ -761,7 +761,7 @@
     },
     {
       "name": "iTorrent",
-      "bundleIdentifier": "com.itorrent.app",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
       "developerName": "XITRIX",
       "subtitle": "Torrent client for iOS",
       "localizedDescription": "latest and greatest version of the itorrent app",
